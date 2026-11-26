@@ -1,0 +1,7 @@
+{
+  "name": "about-me",
+  "title": "About Me",
+  "runtime": "deno",
+  "entry": "main.ts",
+  "permissions": {}
+}
